@@ -1,0 +1,6 @@
+name: KillTheMace
+main: penta.plugins.Main
+version: 1.0
+api-version: 1.21
+author: YourName
+description: Caps player damage to 50 inside an arena region in world_the_end
