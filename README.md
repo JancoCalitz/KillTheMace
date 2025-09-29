@@ -28,4 +28,4 @@ This prevents overpowered weapons, enchantments, or custom damage sources from u
 ---
 
 ## Author
-Developed by **Penta** as part of ongoing Minecraft server plugin development.
+This plugin was developed by **Penta** and is shown here for demonstration purposes. Rights reserved.
